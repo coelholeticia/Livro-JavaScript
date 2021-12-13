@@ -1,4 +1,4 @@
-# Livro-JavaScript 📚
-Livro para estudar JS
+# JavaScript 📚
+Book-JS
 
 
